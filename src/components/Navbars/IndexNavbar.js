@@ -114,7 +114,7 @@ function IndexNavbar() {
               </NavItem>
               <NavItem>
                 <NavLink
-                  href="https://discord.gg/parJzjMmbx"
+                  href="https://discord.gg/RKT7CABJmY"
                   target="_blank"
                   id="discord-tooltip"
                 >
